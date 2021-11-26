@@ -1,0 +1,2 @@
+# newRepoJS
+JavaScript assignment
